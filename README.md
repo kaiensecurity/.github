@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kaiensecurity/.github/59b736e36cd59a87baeb829d6a7fa59c770c4b0c/Assets/Banner-Github-kaien.png" width="100%">
+<img src="../Assets/Banner-Github-kaien.png" width="100%" alt="Kaien Security Banner">
 
 <br>
 
