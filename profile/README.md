@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://SEU-BANNER-AQUI.png" width="100%">
+<img src="../Assets/Banner-Github-kaien.png" width="100%" alt="Kaien Security Banner">
 
 <br>
 
